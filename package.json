@@ -13,7 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/collectedview/react-social-mongo.git"
   },
-  "author": "Joe Alongi (https://collectedview.xyz/)",
+  "author": {
+    "name": "Joe Alongi (https://collectedview.io/)"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/collectedview/react-social-mongo/issues"
